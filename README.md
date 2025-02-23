@@ -1,11 +1,14 @@
-# Brain-to-Speech Synthesis Project
+# 🧠🗣️  Brain-to-Speech Synthesis Project
 
-## Team Name: 
-  The AI Alchemists
-## Team Members:
-  1. Cuadros Rivas, Alejandra Paola - KK5459
-  2. Konyakin, Dmitriy - JHGBFA
-  3. Xu, Yang - LYQU2F
+The **Brain-to-Speech Synthesis** project focuses on **developing deep learning models** that can synthesize **speech directly from brain activity**. This research aims to assist individuals with **severe communication impairments** by translating **neural signals** into **spoken words** in real time.  
+
+#### **Key Aspects of the Project:**  
+- **Neural Data Processing:** Uses intracranial electroencephalography (iEEG) recordings to capture brain activity during speech production.  
+- **Deep Learning Models:** Implements **neural networks** (CNNs, RNNs, or Transformers) to decode and generate speech from brain signals.  
+- **Speech Synthesis:** Converts processed neural data into intelligible speech using advanced speech processing techniques.  
+- **Dataset:** Based on the **SingleWordProductionDutch** dataset, which includes brain signal recordings linked to specific spoken words.  
+- **Goal:** Improve speech synthesis quality by replacing **linear regression models** with **deep neural networks** for enhanced accuracy and fluency.  
+
 
 ## Project Description
 The purpose of a brain-computer interface (BCI) is to provide a natural or near-natural channel of communication for people who cannot speak due to physical or neurological impairment.
@@ -84,3 +87,9 @@ Guide to the project setup, execution, and results, ensuring clarity and ease of
 
 [Brain-to-Speech-Synthesis Project Documentation](Brain-to-Speech-Synthesis-Project_DeepLearning.pdf)
 
+## Team Name: 
+  The AI Alchemists
+## Team Members:
+  1. Cuadros Rivas, Alejandra Paola - KK5459
+  2. Konyakin, Dmitriy - JHGBFA
+  3. Xu, Yang - LYQU2F
